@@ -1,6 +1,6 @@
 # [CXS] CarX Scaler
-![GitHub all releases](https://img.shields.io/github/downloads/Sad-Csharp/CXS/total?label=TOTAL%20DOWNLOADS&style=for-the-badge)
 [![Releases](https://img.shields.io/github/v/release/Sad-Csharp/CXS?include_prereleases&label=DOWNLOAD&style=for-the-badge)](https://github.com/Sad-Csharp/CXS/releases)
+![GitHub all releases](https://img.shields.io/github/downloads/Sad-Csharp/CXS/total?label=TOTAL%20DOWNLOADS&style=for-the-badge)
 
 CarX Scaler is a mod made for [KSL](https://github.com/trbflxr/ksl). It allows you to adjust your cars scale, Allowing for smaller or larger cars!
 
