@@ -14,7 +14,7 @@ CarX Scaler is a mod made for [KSL](https://github.com/trbflxr/ksl). It allows y
 2) Once installed, go to [Releases](https://github.com/Sad-Csharp/CXS/releases/tag/v1.0.0) page and download the .ZIP
 3) Open the .ZIP using 7zip, WinRaR, etc. and drag and drop the .KSM file to your kino\mods directory: "CarX Drift Racing Online\kino\mods"
 
-# Alternative
+# Alternative Guide
 1) Boot the game up.
 2) Open KSL and goto "Mod db" let it load.
 3) Click on and install CXS from the database!
