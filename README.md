@@ -5,8 +5,9 @@
 CarX Scaler is a mod made for [KSL](https://github.com/trbflxr/ksl). It allows you to adjust your cars scale, Allowing for smaller or larger cars!
 
 # Features
-* Scale all axis individually.
+* Scale all axis (0.1-1.5) individually.
 * Sync between players with the mod so you can both drive big or small (RC Cars! :D)
+* Scale range so no game breaking occurs!
 
 # Installation Guide
 1) To install the mod you must have KSL, you can find the guide [here](https://github.com/trbflxr/ksl/blob/master/doc/guide/install.md)
